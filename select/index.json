@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Fleeting",
+  "base_artist": "PIGGS",
+  "createdAt": "2026-01-13T09:28:51.320280Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fleeting Mind",
+      "artist": "Ocean Colour Scene",
+      "has_synced": true,
+      "path": "select/01_Fleeting_Mind_Ocean_Colour_Scene.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Fleeting Feeling",
+      "artist": "Sewerslvt",
+      "has_synced": true,
+      "path": "select/02_This_Fleeting_Feeling_Sewerslvt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Fleeting Glance",
+      "artist": "Opeth",
+      "has_synced": true,
+      "path": "select/03_A_Fleeting_Glance_Opeth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fleeting Lullaby",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_Fleeting_Lullaby_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fleeting One",
+      "artist": "First Aid Kit",
+      "has_synced": true,
+      "path": "select/05_Fleeting_One_First_Aid_Kit.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All of This Is Fleeting",
+      "artist": "Polaris",
+      "has_synced": true,
+      "path": "select/06_All_of_This_Is_Fleeting_Polaris.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fleeting Words / Family",
+      "artist": "岡部啓一(MONACA)",
+      "has_synced": false,
+      "path": "select/07_Fleeting_Words___Family_岡部啓一(MONACA).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fleeting Words / Family",
+      "artist": "Keiichi Okabe",
+      "has_synced": false,
+      "path": "select/08_Fleeting_Words___Family_Keiichi_Okabe.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fleeting Trust",
+      "artist": "The Trews",
+      "has_synced": false,
+      "path": "select/09_Fleeting_Trust_The_Trews.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fleeting Trust",
+      "artist": "Trews",
+      "has_synced": false,
+      "path": "select/10_Fleeting_Trust_Trews.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fleeting Moments",
+      "artist": "A & Z feat. Leolani",
+      "has_synced": true,
+      "path": "select/11_Fleeting_Moments_A_&_Z_feat._Leolani.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fleeting Moments",
+      "artist": "A & Z & Leolani",
+      "has_synced": true,
+      "path": "select/12_Fleeting_Moments_A_&_Z_&_Leolani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fleeting",
+      "artist": "PIGGS",
+      "has_synced": false,
+      "path": "select/pl_01_Fleeting_PIGGS.txt"
+    }
+  ]
+}
